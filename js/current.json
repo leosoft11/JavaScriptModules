@@ -1,0 +1,15 @@
+{
+    "current":{
+        "usd": 74,
+        "country": [
+            "Russia",
+            "Spain",
+            "USA"
+        ],
+        "city":[
+            "Ulyanovsk",
+            "Samara",
+            "Dimitrovgrad"
+        ]
+    }
+}
